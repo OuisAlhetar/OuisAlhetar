@@ -1,5 +1,56 @@
-# 💫 About Me:
-# Hi, I'm Ouis 👋<br><br>**Software Engineer — Backend (Laravel) · Frontend (Next.js, React, Vue) · Mobile (Flutter)**<br><br>I build reliable, maintainable, and high-performance web and mobile applications. I combine strong backend engineering with modern frontend practices and pragmatic DevOps to deliver products that scale and delight users.<br><br>---<br><br>## 🔭 What I do<br><br>* Design and implement scalable backend systems using **Laravel**, clean architecture patterns, and RESTful APIs.<br>* Build interactive and accessible frontends with **Next.js**, **React**, **Vue**, and **Redux**.<br>* Develop cross-platform mobile apps with **Flutter** and Dart.<br>* Own CI/CD pipelines and platform automation using **Docker**, **GitHub Actions**, **Terraform**, and Git workflows.<br>* Lead system-design and infrastructure decisions: microservices-ready designs, caching strategies, observability, and horizontal scaling.<br>* Collaborate closely with product teams and designers to ship fast while maintaining high code quality.<br><br>---<br><br>## 🛠️ Core Skills & Technologies<br><br>### Backend<br><br>* **Laravel (PHP)** · API design · Authentication · Queues · Jobs · Caching (Redis / KeyDB)<br>* SQL databases: MySQL / PostgreSQL<br><br>### Frontend<br><br>* **Next.js** · **React** · **Vue.js** · **Redux** · TypeScript · HTML5 · CSS3<br>* Progressive enhancement, accessibility, responsive design<br><br>### Mobile<br><br>* **Flutter** · Dart · State management · Platform integration<br><br>### DevOps & CI/CD<br><br>* **Docker** · Containerization · Compose<br>* **GitHub Actions** · Pipelines, automated tests, deployments<br>* **Terraform** · Infrastructure as code (IaC)<br>* Git, branching strategies, code reviews<br><br>### System Design & Architecture<br><br>* Service decomposition · Event-driven patterns · Caching & rate-limiting strategies<br>* Load handling, availability patterns, graceful degradation<br>* Observability: logging, metrics, tracing<br><br>### Other<br><br>* Unit & integration testing · Automated linting · Security best practices<br>* Team collaboration, mentorship, agile workflows<br>
+
+# Hi, I'm Ouis 👋
+
+**Software Engineer — Backend (Laravel) · Frontend (Next.js, React, Vue) · Mobile (Flutter)**
+
+I build reliable, maintainable, and high-performance web and mobile applications. I combine strong backend engineering with modern frontend practices and pragmatic DevOps to deliver products that scale and delight users.
+
+---
+
+## 🔭 What I do
+
+* Design and implement scalable backend systems using **Laravel**, clean architecture patterns, and RESTful APIs.
+* Build interactive and accessible frontends with **Next.js**, **React**, **Vue**, and **Redux**.
+* Develop cross-platform mobile apps with **Flutter** and Dart.
+* Own CI/CD pipelines and platform automation using **Docker**, **GitHub Actions**, **Terraform**, and Git workflows.
+* Lead system-design and infrastructure decisions: microservices-ready designs, caching strategies, observability, and horizontal scaling.
+* Collaborate closely with product teams and designers to ship fast while maintaining high code quality.
+
+---
+
+## 🛠️ Core Skills & Technologies
+
+### Backend
+
+* **Laravel (PHP)** · API design · Authentication · Queues · Jobs · Caching (Redis / KeyDB)
+* SQL databases: MySQL / PostgreSQL
+
+### Frontend
+
+* **Next.js** · **React** · **Vue.js** · **Redux** · TypeScript · HTML5 · CSS3
+* Progressive enhancement, accessibility, responsive design
+
+### Mobile
+
+* **Flutter** · Dart · State management · Platform integration
+
+### DevOps & CI/CD
+
+* **Docker** · Containerization · Compose
+* **GitHub Actions** · Pipelines, automated tests, deployments
+* **Terraform** · Infrastructure as code (IaC)
+* Git, branching strategies, code reviews
+
+### System Design & Architecture
+
+* Service decomposition · Event-driven patterns · Caching & rate-limiting strategies
+* Load handling, availability patterns, graceful degradation
+* Observability: logging, metrics, tracing
+
+### Other
+
+* Unit & integration testing · Automated linting · Security best practices
+* Team collaboration, mentorship, agile workflows
 
 
 ## 🌐 Socials:
